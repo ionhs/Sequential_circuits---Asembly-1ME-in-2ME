@@ -1,4 +1,4 @@
-# 🛠️ Ensamblaje de Puertas Lógicas / Ate Logikoen Muntaketa / Logic Gate`s Assembly 
+# 🛠️ Ensamblaje de Circuitos Secuenciales / Zirkuitu Sekuentzialen Muntaketa / Sequential Circuits Assembly 
 
 | **Alumnos** | **Curso** | **Módulo** |
 |-------------|-----------|------------|
@@ -23,14 +23,14 @@ Simulate the assembly and verify the operation of the following integrated circu
 
 | **Gates** | **Imagen** |
 |-----------|------------|
-| **7486** → XOR  | ![XOR](imagen_xor.png) |
-| **7432** → OR   | ![OR](imagen_or.png) |
-| **4082** → AND  | ![AND](imagen_and.png) |
-| **7405** → NOT (open-collector) | ![NOT](imagen_not.png) |
-| **7402** → NOR  | ![NOR](imagen_nor.png) |
-| **7400** → NAND | ![NAND](imagen_nand.png) |
-| **7404** → NOT  | ![NOT](imagen_not.png) |
-| **7408** → AND  | ![AND](imagen_and.png) |
+| **4044** → NAME?  | ![NAME?](imagen_xor.png) |
+| **74100** → NAME?   | ![NAME?](imagen_or.png) |
+| **74175** → NAME?  | ![NAME?](imagen_and.png) |
+| **7476** → NAME? | ![NAME?](imagen_not.png) |
+| **4027** → NAME?  | ![NAME?](imagen_nor.png) |
+| **74164** → NAME? | ![NAME?](imagen_nand.png) |
+| **74165** → NAME?  | ![NAME?](imagen_not.png) |
+| **74595** → NAME?  | ![NAME?](imagen_and.png) |
 
 
 ---
